@@ -82,6 +82,16 @@ section.review .card{
 .accordion-body{
     color: #6C6C6C;
 }
+/* honda color style  */
+.fixed-width-height{
+    width: 340px;
+    height: 190px;
+   
+}
+.specific-img{
+    width: 250px;
+    height: 250px;
+}
 
 @media (max-width:576px){
     .section-header{
