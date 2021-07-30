@@ -84,8 +84,8 @@ section.review .card{
 }
 /* honda color style  */
 .fixed-width-height{
-    width: 340px;
-    height: 190px;
+    width: 230px;
+    height: 175px;
    
 }
 .specific-img{
@@ -97,4 +97,7 @@ section.review .card{
     .section-header{
         font-size: 36px;
     }
+}
+main, header{
+    overflow-x: hidden;
 }
